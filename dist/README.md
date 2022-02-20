@@ -1,8 +1,8 @@
 
-  # README Generator
+  # Sample 
 
   ## Description
-  An application that generates professional README.md files based on command line inputs
+  This is a sample readme for the module 9 assignment
 
   ## Table of Contents
   [Installation](#Installation-Instructions)
@@ -18,22 +18,20 @@
   [Questions](#Questions)
 
   ## Installation Instructions
-  Install Node, Clone the repo, and install dependencies.  The application initializes with 'node index'
+  there is no application associated with this readme
 
   ## Usage Information
-  Use this application to create a README for your project by answering the command line prompts.  This readme was built with the application
-
-  https://drive.google.com/file/d/1OYX_NHXZNMvYy7SwX4O7lBtGelscwUAL/view?usp=sharing
+  none
 
   ## License 
   
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
     
-  https://opensource.org/licenses/MIT
+  https://www.boost.org/LICENSE_1_0.txt
     
 
   ## Contribution Guidelines 
-  Please feel free to clone this application to your machine
+  none
 
   ## Testing Instructions
   No tests were written for this application
