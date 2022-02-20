@@ -1,8 +1,8 @@
 
-  # READme Generator
+  # README Generator
 
   ## Description
-  An application that generates custom professional README.md files based on command line inputs
+  An application that generates professional readme files based on command line inputs
 
   ## Table of Contents
   [Installation](#Installation-Instructions)
@@ -18,20 +18,20 @@
   [Questions](#Questions)
 
   ## Installation Instructions
-  Install node, clone the repo to your machine and install the required dependencies from package.json
+  node repo dependecies
 
   ## Usage Information
-  Answer the command line prompts to generate a readme for your project.  This readme was created using the application
+  this readme
 
   ## License 
   
-    ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
+  ![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)
     
-    https://opensource.org/licenses/ISC
+  https://opensource.org/licenses/EPL-1.0
     
 
   ## Contribution Guidelines 
-  This application is available to be cloned to your local machine but is completed
+  don't, it's prefect
 
   ## Testing Instructions
   no tests were written for this application
