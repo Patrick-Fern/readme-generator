@@ -2,7 +2,7 @@
 
 const inquirer = require("inquirer");
 const fs = require('fs');
-const generateReadme = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = () => {
@@ -61,7 +61,7 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'instillation',
+            name: 'installation',
             message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.'
         },
         {
@@ -76,7 +76,7 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'test-instructions',
+            name: 'test',
             message: 'Please provide instructions for how users can run any tests for your application.' 
         },
         {
@@ -100,6 +100,6 @@ const questions = () => {
 
 questions()
     .then(readmeData => {
-        console.log(readmeData);
+       return generateMarkdown(readmeData);
     })
 
